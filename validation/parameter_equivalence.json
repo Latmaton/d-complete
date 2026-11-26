@@ -1,0 +1,10 @@
+{
+  "PARAMETERS": true,
+  "SCALES": true,
+  "INTERVALS": true,
+  "CHUNK": true,
+  "HEIGHT_LIMITS": true,
+  "TERMINAL_LIMITS": true,
+  "PAPER_TARGETS": true,
+  "POSITIVE_SETTINGS": true
+}

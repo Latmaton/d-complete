@@ -1,0 +1,4 @@
+Checking source hashes against the current package: /workspace/scratch/9836874b0ba4/english_package/d_complete_verification
+Record consistent:  -2_-3_20261126T163442_650263Z bases (-2, -3) lower bound 279639770174754573011/874621517536000000000
+Consistent passed records: 1 Incomplete or non-passed records: 0 Inconsistent records: 0
+Only saved records were checked; residue families and terminal lower bounds were not reconstructed.

@@ -1,0 +1,12 @@
+Small tests passed for residue search, the Boolean recurrence, and the height recurrence for positive integers.
+Signed terminal counts: 150 comparisons with set enumeration passed.
+Positive seeds: 561 comparisons with antichain enumeration passed.
+Interval packing: 32 comparisons with exhaustive subset enumeration passed.
+Positive interval lifting: 986 comparisons with direct double summation passed.
+Two-array heights: 64 endpoint/width/chunk checks passed, as did the Boolean chunk and rational size-bound checks.
+Positive residue families: joint distributions for 3 size bounds and 3 chunk sizes agree with direct rational-chain enumeration.
+Positive seeds: a further 1078 nonintegral-endpoint checks and the height-truncation check passed.
+Tail bounds: all 810 height sequences of lengths 4 and 6 passed the checks against 5 tail-probability bounds.
+Input and certificate validation: 26 exception cases and the empty/one-term checks passed.
+python -O: Input and certificate validation: 26 exception cases and the empty/one-term checks passed.
+All small-parameter tests passed.
