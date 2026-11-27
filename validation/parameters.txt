@@ -1,9 +1,0 @@
-(5, 2) parameter and constant checks passed
-(-2, 3) parameter and constant checks passed
-(-2, -3) parameter and constant checks passed
-(-5, 2) parameter and constant checks passed
-(5, -2) parameter and constant checks passed
-(-5, -2) parameter and constant checks passed
-(7, -2) parameter and constant checks passed
-(-7, -2) parameter and constant checks passed
-This mode does not verify residue families, terminal counts, or the final density bound.

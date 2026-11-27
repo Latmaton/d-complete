@@ -1,8 +1,0 @@
-
-Bases (-2, -3), output directory results/-2_-3_20261126T163442_650263Z
-1/4 Constructing residue families from scratch
-2/4 Checking exponential moments and computing tail bounds
-3/4 Constructing terminal lower bounds from scratch
-4/4 Computing scale coefficients and checking every endpoint
-All checks passed. Lower density >= 279639770174754573011/874621517536000000000 > 31/100
-Decimal for reference only: 0.31972660695858585
