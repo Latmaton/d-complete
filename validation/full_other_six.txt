@@ -1,0 +1,48 @@
+
+Bases (-2, -3), output directory /workspace/scratch/9836874b0ba4/program_audit_20261127/full_recheck/-2_-3_20261127T131118_432152Z
+1/4 Constructing residue families from scratch
+2/4 Checking exponential moments and computing tail bounds
+3/4 Constructing terminal lower bounds from scratch
+4/4 Computing scale coefficients and checking every endpoint
+All checks passed. Lower density >= 279639770174754573011/874621517536000000000 > 31/100
+Decimal for reference only: 0.31972660695858585
+
+Bases (7, -2), output directory /workspace/scratch/9836874b0ba4/program_audit_20261127/full_recheck/7_-2_20261127T131119_512352Z
+1/4 Constructing residue families from scratch
+2/4 Checking exponential moments and computing tail bounds
+3/4 Constructing terminal lower bounds from scratch
+4/4 Computing scale coefficients and checking every endpoint
+All checks passed. Lower density >= 1509647601/551583240875000000 > 1/500000000
+Decimal for reference only: 2.7369352241470965e-09
+
+Bases (-7, -2), output directory /workspace/scratch/9836874b0ba4/program_audit_20261127/full_recheck/-7_-2_20261127T131123_636991Z
+1/4 Constructing residue families from scratch
+2/4 Checking exponential moments and computing tail bounds
+3/4 Constructing terminal lower bounds from scratch
+4/4 Computing scale coefficients and checking every endpoint
+All checks passed. Lower density >= 5716683021/8825331968000000000 > 1/2100000000
+Decimal for reference only: 6.477584120040208e-10
+
+Bases (-5, 2), output directory /workspace/scratch/9836874b0ba4/program_audit_20261127/full_recheck/-5_2_20261127T131128_451719Z
+1/4 Constructing residue families from scratch
+2/4 Checking exponential moments and computing tail bounds
+3/4 Constructing terminal lower bounds from scratch
+4/4 Computing scale coefficients and checking every endpoint
+All checks passed. Lower density >= 2288981852610702771/5176688253125000000 > 13/30
+Decimal for reference only: 0.44217108326523585
+
+Bases (5, -2), output directory /workspace/scratch/9836874b0ba4/program_audit_20261127/full_recheck/5_-2_20261127T131242_587491Z
+1/4 Constructing residue families from scratch
+2/4 Checking exponential moments and computing tail bounds
+3/4 Constructing terminal lower bounds from scratch
+4/4 Computing scale coefficients and checking every endpoint
+All checks passed. Lower density >= 34233627410211230333/93468895905625000000 > 7/20
+Decimal for reference only: 0.36625689303933495
+
+Bases (-5, -2), output directory /workspace/scratch/9836874b0ba4/program_audit_20261127/full_recheck/-5_-2_20261127T131354_171877Z
+1/4 Constructing residue families from scratch
+2/4 Checking exponential moments and computing tail bounds
+3/4 Constructing terminal lower bounds from scratch
+4/4 Computing scale coefficients and checking every endpoint
+All checks passed. Lower density >= 985629018238627075067/2111297650803222656250 > 56/125
+Decimal for reference only: 0.46683565335453964

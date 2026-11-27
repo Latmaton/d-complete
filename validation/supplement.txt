@@ -1,0 +1,7 @@
+Parameter export consistency check passed.
+pairs: 8
+period_entries: 71
+scales: 191
+intervals: 466
+choices: 2426
+files: 51

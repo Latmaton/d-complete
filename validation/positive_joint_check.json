@@ -1,0 +1,47 @@
+{
+  "B_10": {
+    "shape": [
+      32,
+      327681
+    ],
+    "dtype": "uint32",
+    "total": 48828125,
+    "height_counts_match": true
+  },
+  "B_11": {
+    "shape": [
+      32,
+      360449
+    ],
+    "dtype": "uint32",
+    "total": 48828125,
+    "height_counts_match": true
+  },
+  "B_12": {
+    "shape": [
+      32,
+      393217
+    ],
+    "dtype": "uint32",
+    "total": 48828125,
+    "height_counts_match": true
+  },
+  "B_14": {
+    "shape": [
+      32,
+      458753
+    ],
+    "dtype": "uint32",
+    "total": 48828125,
+    "height_counts_match": true
+  },
+  "B_22": {
+    "shape": [
+      32,
+      720897
+    ],
+    "dtype": "uint32",
+    "total": 48828125,
+    "height_counts_match": true
+  }
+}

@@ -1,0 +1,39 @@
+Recorded output excerpt for the 36 regression checks included in this package.
+Execution date: 27 November 2026.
+
+Passed: one copied current record
+Passed: one current case does not cover all eight cases
+Passed: reversed bases select the fixed case
+Passed: a missing selected pair is incomplete
+Passed: unsupported bases are a usage error
+Passed: pair selection and all-case coverage are mutually exclusive
+Passed: an empty results directory is incomplete
+Passed: a missing results directory is an error
+Passed: a run directory without a summary is an error
+Passed: missing-status
+Passed: unknown-status
+Passed: non-object-summary
+Passed: missing-pair
+Passed: non-integer-pair
+Passed: unparseable JSON is an error
+Passed: running is incomplete
+Passed: failed is incomplete
+Passed: interrupted is incomplete
+Passed: a complete case does not hide an incomplete record
+Passed: an incomplete record outside the selected pair does not block that pair
+Passed: a passed record needs all stage metadata
+Passed: a passed record cannot omit the terminal stage
+Passed: reject invalid stage time True
+Passed: reject invalid stage time -1
+Passed: reject invalid stage time inf
+Passed: reject invalid stage time nan
+Passed: reject invalid stage time '1.0'
+Passed: zero is a valid nonnegative stage time
+Passed: same-valued float cannot replace an integer parameter
+Passed: nested integer parameter types are checked
+Passed: Boolean cannot replace an integer parameter
+Passed: source hash mismatch remains an error
+Passed: a passed record cannot omit a required output
+Passed: eight runs of one pair do not cover eight different cases
+Passed: an invalid source archive is an error
+Passed: the selected source archive must contain all six core files

@@ -1,0 +1,228 @@
+
+Bases (5, 2), output directory /workspace/scratch/9836874b0ba4/program_audit_20261127/full_recheck/5_2_20261127T131118_450218Z
+1/4 Constructing residue families from scratch
+  Finite height table k = 1 / 11
+  Finite height table k = 2 / 11
+  Finite height table k = 3 / 11
+  Finite height table k = 4 / 11
+  Finite height table k = 5 / 11
+  Finite height table k = 6 / 11
+  Finite height table k = 7 / 11
+  Finite height table k = 8 / 11
+  Finite height table k = 9 / 11
+  Finite height table k = 10 / 11
+  Finite height table k = 11 / 11
+  B = 10 , h = 1 , covered 3 / 48828125
+  B = 10 , h = 2 , covered 6 / 48828125
+  B = 10 , h = 3 , covered 15 / 48828125
+  B = 10 , h = 4 , covered 30 / 48828125
+  B = 10 , h = 5 , covered 62 / 48828125
+  B = 10 , h = 6 , covered 133 / 48828125
+  B = 10 , h = 7 , covered 250 / 48828125
+  B = 10 , h = 8 , covered 568 / 48828125
+  B = 10 , h = 9 , covered 1125 / 48828125
+  B = 10 , h = 10 , covered 2457 / 48828125
+  B = 10 , h = 11 , covered 5145 / 48828125
+  B = 10 , h = 12 , covered 10644 / 48828125
+  B = 10 , h = 13 , covered 22943 / 48828125
+  B = 10 , h = 14 , covered 45241 / 48828125
+  B = 10 , h = 15 , covered 99668 / 48828125
+  B = 10 , h = 16 , covered 201665 / 48828125
+  B = 10 , h = 17 , covered 432799 / 48828125
+  B = 10 , h = 18 , covered 902755 / 48828125
+  B = 10 , h = 19 , covered 1863791 / 48828125
+  B = 10 , h = 20 , covered 3936753 / 48828125
+  B = 10 , h = 21 , covered 7861539 / 48828125
+  B = 10 , h = 22 , covered 16719905 / 48828125
+  B = 10 , h = 23 , covered 33686665 / 48828125
+  B = 10 , h = 24 , covered 43819263 / 48828125
+  B = 10 , h = 25 , covered 47704255 / 48828125
+  B = 10 , h = 26 , covered 48541558 / 48828125
+  B = 10 , h = 27 , covered 48770573 / 48828125
+  B = 10 , h = 28 , covered 48821502 / 48828125
+  B = 10 , h = 29 , covered 48827621 / 48828125
+  B = 10 , h = 30 , covered 48828116 / 48828125
+  B = 10 , h = 31 , covered 48828125 / 48828125
+  B = 11 , h = 1 , covered 3 / 48828125
+  B = 11 , h = 2 , covered 6 / 48828125
+  B = 11 , h = 3 , covered 15 / 48828125
+  B = 11 , h = 4 , covered 30 / 48828125
+  B = 11 , h = 5 , covered 65 / 48828125
+  B = 11 , h = 6 , covered 140 / 48828125
+  B = 11 , h = 7 , covered 278 / 48828125
+  B = 11 , h = 8 , covered 619 / 48828125
+  B = 11 , h = 9 , covered 1194 / 48828125
+  B = 11 , h = 10 , covered 2657 / 48828125
+  B = 11 , h = 11 , covered 5471 / 48828125
+  B = 11 , h = 12 , covered 11545 / 48828125
+  B = 11 , h = 13 , covered 24739 / 48828125
+  B = 11 , h = 14 , covered 50043 / 48828125
+  B = 11 , h = 15 , covered 109204 / 48828125
+  B = 11 , h = 16 , covered 216982 / 48828125
+  B = 11 , h = 17 , covered 472049 / 48828125
+  B = 11 , h = 18 , covered 973816 / 48828125
+  B = 11 , h = 19 , covered 2039639 / 48828125
+  B = 11 , h = 20 , covered 4285981 / 48828125
+  B = 11 , h = 21 , covered 8686845 / 48828125
+  B = 11 , h = 22 , covered 18363425 / 48828125
+  B = 11 , h = 23 , covered 36547360 / 48828125
+  B = 11 , h = 24 , covered 44706736 / 48828125
+  B = 11 , h = 25 , covered 47748430 / 48828125
+  B = 11 , h = 26 , covered 48544199 / 48828125
+  B = 11 , h = 27 , covered 48770821 / 48828125
+  B = 11 , h = 28 , covered 48821525 / 48828125
+  B = 11 , h = 29 , covered 48827622 / 48828125
+  B = 11 , h = 30 , covered 48828116 / 48828125
+  B = 11 , h = 31 , covered 48828125 / 48828125
+  B = 12 , h = 1 , covered 3 / 48828125
+  B = 12 , h = 2 , covered 6 / 48828125
+  B = 12 , h = 3 , covered 16 / 48828125
+  B = 12 , h = 4 , covered 31 / 48828125
+  B = 12 , h = 5 , covered 70 / 48828125
+  B = 12 , h = 6 , covered 146 / 48828125
+  B = 12 , h = 7 , covered 303 / 48828125
+  B = 12 , h = 8 , covered 661 / 48828125
+  B = 12 , h = 9 , covered 1252 / 48828125
+  B = 12 , h = 10 , covered 2847 / 48828125
+  B = 12 , h = 11 , covered 5771 / 48828125
+  B = 12 , h = 12 , covered 12481 / 48828125
+  B = 12 , h = 13 , covered 26427 / 48828125
+  B = 12 , h = 14 , covered 54614 / 48828125
+  B = 12 , h = 15 , covered 117978 / 48828125
+  B = 12 , h = 16 , covered 231411 / 48828125
+  B = 12 , h = 17 , covered 509611 / 48828125
+  B = 12 , h = 18 , covered 1040059 / 48828125
+  B = 12 , h = 19 , covered 2212344 / 48828125
+  B = 12 , h = 20 , covered 4615571 / 48828125
+  B = 12 , h = 21 , covered 9469524 / 48828125
+  B = 12 , h = 22 , covered 19909996 / 48828125
+  B = 12 , h = 23 , covered 38487243 / 48828125
+  B = 12 , h = 24 , covered 45322853 / 48828125
+  B = 12 , h = 25 , covered 47799306 / 48828125
+  B = 12 , h = 26 , covered 48546184 / 48828125
+  B = 12 , h = 27 , covered 48770856 / 48828125
+  B = 12 , h = 28 , covered 48821533 / 48828125
+  B = 12 , h = 29 , covered 48827623 / 48828125
+  B = 12 , h = 30 , covered 48828116 / 48828125
+  B = 12 , h = 31 , covered 48828125 / 48828125
+  B = 14 , h = 1 , covered 3 / 48828125
+  B = 14 , h = 2 , covered 8 / 48828125
+  B = 14 , h = 3 , covered 18 / 48828125
+  B = 14 , h = 4 , covered 33 / 48828125
+  B = 14 , h = 5 , covered 77 / 48828125
+  B = 14 , h = 6 , covered 156 / 48828125
+  B = 14 , h = 7 , covered 338 / 48828125
+  B = 14 , h = 8 , covered 728 / 48828125
+  B = 14 , h = 9 , covered 1468 / 48828125
+  B = 14 , h = 10 , covered 3264 / 48828125
+  B = 14 , h = 11 , covered 6368 / 48828125
+  B = 14 , h = 12 , covered 14246 / 48828125
+  B = 14 , h = 13 , covered 29417 / 48828125
+  B = 14 , h = 14 , covered 62617 / 48828125
+  B = 14 , h = 15 , covered 133667 / 48828125
+  B = 14 , h = 16 , covered 272309 / 48828125
+  B = 14 , h = 17 , covered 591042 / 48828125
+  B = 14 , h = 18 , covered 1173028 / 48828125
+  B = 14 , h = 19 , covered 2548072 / 48828125
+  B = 14 , h = 20 , covered 5230729 / 48828125
+  B = 14 , h = 21 , covered 10953374 / 48828125
+  B = 14 , h = 22 , covered 22856700 / 48828125
+  B = 14 , h = 23 , covered 39253501 / 48828125
+  B = 14 , h = 24 , covered 45592781 / 48828125
+  B = 14 , h = 25 , covered 47838219 / 48828125
+  B = 14 , h = 26 , covered 48548687 / 48828125
+  B = 14 , h = 27 , covered 48771055 / 48828125
+  B = 14 , h = 28 , covered 48821542 / 48828125
+  B = 14 , h = 29 , covered 48827623 / 48828125
+  B = 14 , h = 30 , covered 48828116 / 48828125
+  B = 14 , h = 31 , covered 48828125 / 48828125
+  B = 22 , h = 1 , covered 3 / 48828125
+  B = 22 , h = 2 , covered 9 / 48828125
+  B = 22 , h = 3 , covered 19 / 48828125
+  B = 22 , h = 4 , covered 45 / 48828125
+  B = 22 , h = 5 , covered 99 / 48828125
+  B = 22 , h = 6 , covered 206 / 48828125
+  B = 22 , h = 7 , covered 471 / 48828125
+  B = 22 , h = 8 , covered 911 / 48828125
+  B = 22 , h = 9 , covered 2103 / 48828125
+  B = 22 , h = 10 , covered 4352 / 48828125
+  B = 22 , h = 11 , covered 9412 / 48828125
+  B = 22 , h = 12 , covered 20414 / 48828125
+  B = 22 , h = 13 , covered 41778 / 48828125
+  B = 22 , h = 14 , covered 92800 / 48828125
+  B = 22 , h = 15 , covered 183664 / 48828125
+  B = 22 , h = 16 , covered 408672 / 48828125
+  B = 22 , h = 17 , covered 845172 / 48828125
+  B = 22 , h = 18 , covered 1796103 / 48828125
+  B = 22 , h = 19 , covered 3810496 / 48828125
+  B = 22 , h = 20 , covered 7767861 / 48828125
+  B = 22 , h = 21 , covered 16658831 / 48828125
+  B = 22 , h = 22 , covered 33006813 / 48828125
+  B = 22 , h = 23 , covered 41900693 / 48828125
+  B = 22 , h = 24 , covered 46262681 / 48828125
+  B = 22 , h = 25 , covered 47898977 / 48828125
+  B = 22 , h = 26 , covered 48554715 / 48828125
+  B = 22 , h = 27 , covered 48771465 / 48828125
+  B = 22 , h = 28 , covered 48821598 / 48828125
+  B = 22 , h = 29 , covered 48827625 / 48828125
+  B = 22 , h = 30 , covered 48828116 / 48828125
+  B = 22 , h = 31 , covered 48828125 / 48828125
+2/4 Checking exponential moments and computing tail bounds
+3/4 Constructing terminal lower bounds from scratch
+  Finite height table k = 1 / 14
+  Finite height table k = 2 / 14
+  Finite height table k = 3 / 14
+  Finite height table k = 4 / 14
+  Finite height table k = 5 / 14
+  Finite height table k = 6 / 14
+  Finite height table k = 7 / 14
+  Finite height table k = 8 / 14
+  Finite height table k = 9 / 14
+  Finite height table k = 10 / 14
+  Finite height table k = 11 / 14
+  Finite height table k = 12 / 14
+  Finite height table k = 13 / 14
+  Finite height table k = 14 / 14
+  Step 2 interval table, height 10 / 57
+  Step 2 interval table, height 20 / 57
+  Step 2 interval table, height 30 / 57
+  Step 2 interval table, height 40 / 57
+  Step 2 interval table, height 50 / 57
+  Step 2 interval table, height 57 / 57
+  Step 3 interval table, height 10 / 83
+  Step 3 interval table, height 20 / 83
+  Step 3 interval table, height 30 / 83
+  Step 3 interval table, height 40 / 83
+  Step 3 interval table, height 50 / 83
+  Step 3 interval table, height 60 / 83
+  Step 3 interval table, height 70 / 83
+  Step 3 interval table, height 80 / 83
+  Step 3 interval table, height 83 / 83
+  Step 4 interval table, height 10 / 108
+  Step 4 interval table, height 20 / 108
+  Step 4 interval table, height 30 / 108
+  Step 4 interval table, height 40 / 108
+  Step 4 interval table, height 50 / 108
+  Step 4 interval table, height 60 / 108
+  Step 4 interval table, height 70 / 108
+  Step 4 interval table, height 80 / 108
+  Step 4 interval table, height 90 / 108
+  Step 4 interval table, height 100 / 108
+  Step 4 interval table, height 108 / 108
+  Step 5 interval table, height 10 / 134
+  Step 5 interval table, height 20 / 134
+  Step 5 interval table, height 30 / 134
+  Step 5 interval table, height 40 / 134
+  Step 5 interval table, height 50 / 134
+  Step 5 interval table, height 60 / 134
+  Step 5 interval table, height 70 / 134
+  Step 5 interval table, height 80 / 134
+  Step 5 interval table, height 90 / 134
+  Step 5 interval table, height 100 / 134
+  Step 5 interval table, height 110 / 134
+  Step 5 interval table, height 120 / 134
+  Step 5 interval table, height 130 / 134
+  Step 5 interval table, height 134 / 134
+4/4 Computing scale coefficients and checking every endpoint
+All checks passed. Lower density >= 27908486048646169011/31005859375000000000 > 9001/10000
+Decimal for reference only: 0.9001036130335016

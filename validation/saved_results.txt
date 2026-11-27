@@ -1,0 +1,14 @@
+Checking source hashes against the current package: /workspace/scratch/9836874b0ba4/program_audit_20261127/repaired/d_complete_verification
+Record consistent:  -2_-3_20261127T131118_432152Z bases (-2, -3) lower bound 279639770174754573011/874621517536000000000
+Record consistent:  -2_3_20261127T131118_446921Z bases (-2, 3) lower bound 3768315879601051829/11830748944000000000
+Record consistent:  -5_-2_20261127T131354_171877Z bases (-5, -2) lower bound 985629018238627075067/2111297650803222656250
+Record consistent:  -5_2_20261127T131128_451719Z bases (-5, 2) lower bound 2288981852610702771/5176688253125000000
+Record consistent:  -7_-2_20261127T131123_636991Z bases (-7, -2) lower bound 5716683021/8825331968000000000
+Record consistent:  5_-2_20261127T131242_587491Z bases (5, -2) lower bound 34233627410211230333/93468895905625000000
+Record consistent:  5_2_20261127T131118_450218Z bases (5, 2) lower bound 27908486048646169011/31005859375000000000
+Record consistent:  7_-2_20261127T131119_512352Z bases (7, -2) lower bound 1509647601/551583240875000000
+Consistent passed records: 8 Incomplete or non-passed records: 0 Inconsistent records: 0
+Covered cases: (5, 2), (-2, 3), (-2, -3), (-5, 2), (5, -2), (-5, -2), (7, -2), (-7, -2)
+Required cases: (5, 2), (-2, 3), (-2, -3), (-5, 2), (5, -2), (-5, -2), (7, -2), (-7, -2)
+Missing complete cases: none
+Only saved records were checked; residue families and terminal lower bounds were not reconstructed.

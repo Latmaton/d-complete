@@ -1,0 +1,89 @@
+
+Bases (-2, 3), output directory /workspace/scratch/9836874b0ba4/program_audit_20261127/full_recheck/-2_3_20261127T131118_446921Z
+1/4 Constructing residue families from scratch
+  Checked 4097 / 262144
+  Checked 8193 / 262144
+  Checked 12289 / 262144
+  Checked 16385 / 262144
+  Checked 20481 / 262144
+  Checked 24577 / 262144
+  Checked 28673 / 262144
+  Checked 32769 / 262144
+  Checked 36865 / 262144
+  Checked 40961 / 262144
+  Checked 45057 / 262144
+  Checked 49153 / 262144
+  Checked 53249 / 262144
+  Checked 57345 / 262144
+  Checked 61441 / 262144
+  Checked 65537 / 262144
+  Checked 69633 / 262144
+  Checked 73729 / 262144
+  Checked 77825 / 262144
+  Checked 81921 / 262144
+  Checked 86017 / 262144
+  Checked 90113 / 262144
+  Checked 94209 / 262144
+  Checked 98305 / 262144
+  Checked 102401 / 262144
+  Checked 106497 / 262144
+  Checked 110593 / 262144
+  Checked 114689 / 262144
+  Checked 118785 / 262144
+  Checked 122881 / 262144
+  Checked 126977 / 262144
+  Checked 131073 / 262144
+  Checked 135169 / 262144
+  Checked 139265 / 262144
+  Checked 143361 / 262144
+  Checked 147457 / 262144
+  Checked 151553 / 262144
+  Checked 155649 / 262144
+  Checked 159745 / 262144
+  Checked 163841 / 262144
+  Checked 167937 / 262144
+  Checked 172033 / 262144
+  Checked 176129 / 262144
+  Checked 180225 / 262144
+  Checked 184321 / 262144
+  Checked 188417 / 262144
+  Checked 192513 / 262144
+  Checked 196609 / 262144
+  Checked 200705 / 262144
+  Checked 204801 / 262144
+  Checked 208897 / 262144
+  Checked 212993 / 262144
+  Checked 217089 / 262144
+  Checked 221185 / 262144
+  Checked 225281 / 262144
+  Checked 229377 / 262144
+  Checked 233473 / 262144
+  Checked 237569 / 262144
+  Checked 241665 / 262144
+  Checked 245761 / 262144
+  Checked 249857 / 262144
+  Checked 253953 / 262144
+  Checked 258049 / 262144
+  Checked 262144 / 262144
+2/4 Checking exponential moments and computing tail bounds
+3/4 Constructing terminal lower bounds from scratch
+  terminal height 1 / 17
+  terminal height 2 / 17
+  terminal height 3 / 17
+  terminal height 4 / 17
+  terminal height 5 / 17
+  terminal height 6 / 17
+  terminal height 7 / 17
+  terminal height 8 / 17
+  terminal height 9 / 17
+  terminal height 10 / 17
+  terminal height 11 / 17
+  terminal height 12 / 17
+  terminal height 13 / 17
+  terminal height 14 / 17
+  terminal height 15 / 17
+  terminal height 16 / 17
+  terminal height 17 / 17
+4/4 Computing scale coefficients and checking every endpoint
+All checks passed. Lower density >= 3768315879601051829/11830748944000000000 > 159/500
+Decimal for reference only: 0.3185187934794411
